@@ -103,4 +103,4 @@ theme: next
 deploy:
 - type: git
   repo: git@github.com:davidnotes/davidnotes.github.io.git # 使用仓库的ssh地址
-  branch: gh-pages
+  branch: master
