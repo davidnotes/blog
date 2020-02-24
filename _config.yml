@@ -6,7 +6,7 @@
 title: Davidnotes
 subtitle: "words from david"
 description: ""
-keywords: "JavaScrpit","Java" 
+keywords: "JavaScrpit, Java" 
 author: David
 language: zh-Hans
 timezone: ""
@@ -43,7 +43,7 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
